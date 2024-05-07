@@ -1,0 +1,6 @@
+12 200 "terror"
+"cadp" 
+32 900 "amor"
+"r-info"
+54 1200 "aventura"
+"maze runner"
